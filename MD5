@@ -1,0 +1,16 @@
+cc5d33ebcadc523932202add3190f8a0 *DESCRIPTION
+70cf4cff4d1141a543449cd281a2dcf9 *NAMESPACE
+05318d25385d8b9fc1eb6f56ce4fe4e7 *R/backfit.R
+e7f1c6569e8586775a9a21fa3ca65669 *R/helper.R
+ec89021ec6cbb05a871619d726d99f2a *man/cv.liso.Rd
+aad20564c5ee74f0999856140ab8570a *man/liso.Rd
+0d18a1a29ee4ecd16b1d32aff108a0ec *man/liso.backfit.Rd
+671d23ccdffc9a2192a368ce3b43c6bd *man/liso.covweights.Rd
+b45fcca38977aaeca6b14150f55e03dd *man/liso.maxlamb.Rd
+264fc891ac91df062f50a714380418c9 *man/multistep.Rd
+75bfc5da265cca5bf767d062d884b2ac *man/plot.multistep.Rd
+fc8e309f371435b793504e2226138bd4 *man/predict.multistep.Rd
+1ec1a6025bc4cc92cedcf4fab2aef56b *man/print.lisofit.Rd
+1175cc1a65ed66ab0753911c246d32d0 *man/seq.log.Rd
+8df0b2fa293ef50e127c97922936a81e *man/summary.multistep.Rd
+a3e0dc7aac344f1601a66fa349d991f1 *tests/Liso.R
